@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "落花式",
+  "base_artist": "ユジー",
+  "createdAt": "2026-01-12T11:49:03.741199Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "落花式 (feat. 初音ミク)",
+      "artist": "ユジー",
+      "has_synced": false,
+      "path": "select/pl_01_落花式_(feat._初音ミク)_ユジー.txt"
+    }
+  ]
+}
